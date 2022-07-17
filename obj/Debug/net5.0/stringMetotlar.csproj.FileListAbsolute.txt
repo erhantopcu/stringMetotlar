@@ -1,0 +1,16 @@
+C:\Users\erhnt\Desktop\C# Lectures\stringMetotlar\bin\Debug\net5.0\stringMetotlar.exe
+C:\Users\erhnt\Desktop\C# Lectures\stringMetotlar\bin\Debug\net5.0\stringMetotlar.deps.json
+C:\Users\erhnt\Desktop\C# Lectures\stringMetotlar\bin\Debug\net5.0\stringMetotlar.runtimeconfig.json
+C:\Users\erhnt\Desktop\C# Lectures\stringMetotlar\bin\Debug\net5.0\stringMetotlar.runtimeconfig.dev.json
+C:\Users\erhnt\Desktop\C# Lectures\stringMetotlar\bin\Debug\net5.0\stringMetotlar.dll
+C:\Users\erhnt\Desktop\C# Lectures\stringMetotlar\bin\Debug\net5.0\stringMetotlar.pdb
+C:\Users\erhnt\Desktop\C# Lectures\stringMetotlar\obj\Debug\net5.0\stringMetotlar.csproj.AssemblyReference.cache
+C:\Users\erhnt\Desktop\C# Lectures\stringMetotlar\obj\Debug\net5.0\stringMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erhnt\Desktop\C# Lectures\stringMetotlar\obj\Debug\net5.0\stringMetotlar.AssemblyInfoInputs.cache
+C:\Users\erhnt\Desktop\C# Lectures\stringMetotlar\obj\Debug\net5.0\stringMetotlar.AssemblyInfo.cs
+C:\Users\erhnt\Desktop\C# Lectures\stringMetotlar\obj\Debug\net5.0\stringMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\erhnt\Desktop\C# Lectures\stringMetotlar\obj\Debug\net5.0\stringMetotlar.dll
+C:\Users\erhnt\Desktop\C# Lectures\stringMetotlar\obj\Debug\net5.0\refint\stringMetotlar.dll
+C:\Users\erhnt\Desktop\C# Lectures\stringMetotlar\obj\Debug\net5.0\stringMetotlar.pdb
+C:\Users\erhnt\Desktop\C# Lectures\stringMetotlar\obj\Debug\net5.0\stringMetotlar.genruntimeconfig.cache
+C:\Users\erhnt\Desktop\C# Lectures\stringMetotlar\obj\Debug\net5.0\ref\stringMetotlar.dll
